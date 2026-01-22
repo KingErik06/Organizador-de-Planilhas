@@ -53,10 +53,14 @@ python src/main.py
 - openpyxl
 - pathlib
 
+---
+
 ## 👤 Indicado para
 - Escritórios
 - Pequenas empresas
 - Freelancers
 - Profissionais que lidam com Excel diariamente
+
+---
 
 > A automação pode ser facilmente adaptada para diferentes estruturas de planilhas conforme a necessidade do usuário.
