@@ -7,8 +7,8 @@ OUTPUT_DIR = BASE_DIR / "data" / "output"
 
 COLUMN_MAPPING = {
     "data venda": "Data",
-    "Cliente Nome": "Cliente",
-    "VALOR total": "Valor",
+    "cliente Nome": "Cliente",
+    "valor total": "Valor",
     "produto": "Produto"
 }
 
